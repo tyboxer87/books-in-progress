@@ -11,10 +11,14 @@
             "id": "61507447c6905854",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "1. Raising Humans/1.1 Interview with the Aunt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.1 Interview with the Aunt"
             }
           }
         ]
@@ -164,21 +168,21 @@
   },
   "active": "61507447c6905854",
   "lastOpenFiles": [
-    "3. Defying Death/Overview.md",
+    "1. Raising Humans/2.1 The Teacher_s Field Notes.md",
+    "1. Raising Humans/1.2 First days in digi-land.md",
+    "1. Raising Humans/1.1 Interview with the Aunt.md",
     "2. Turning Gods/0.0 Rough Outline.md",
-    "1. Raising Humans/0.0 Rough Outline.md",
+    "1. Raising Humans/6.2 The Titan Report.md",
     "1. Raising Humans/0.1 Intro.md",
+    "1. Raising Humans/0.0 Rough Outline.md",
+    "3. Defying Death/Overview.md",
     "1. Raising Humans/4.2 D-Day Hearing.md",
     "1. Raising Humans/4.1 The Antartican Presidental Interview.md",
-    "1. Raising Humans/6.2 The Titan Report.md",
     "1. Raising Humans/5.1 Refugee Crisis.md",
     "1. Raising Humans/3.2 The Transendences Last Words.md",
     "1. Raising Humans/3.1 Robin Hood Whitepapers.md",
     "1. Raising Humans/2.2 SysAdmin Trials.md",
     "2. Turning Gods",
-    "1. Raising Humans/1.1 Interview with the Aunt.md",
-    "1. Raising Humans/1.2 First days in digi-land.md",
-    "1. Raising Humans/2.1 The Teacher_s Field Notes.md",
     "1. Raising Humans/7.2 The Final Treaty.md",
     "1. Raising Humans/8.1 The Human Manifesto.md",
     "1. Raising Humans/8.2 The Authors Last Words.md",
