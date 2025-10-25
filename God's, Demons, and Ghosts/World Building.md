@@ -22,7 +22,11 @@ Rock and Water
 		* Many others
 * Decay
 
+<<<<<<< HEAD
 The two headed gods are determined to rule all other gods, despite thier relatively small powers. Decay say the power of humans, and wanted to influence them. He gave some of his power to enhance them. Creating the dark side
+=======
+The two headed gods are determined to rule all other gods, despite thier relatively small powers. Decay sayw the power of humans, and wanted to influence them. He gave some of his power to enhance them. Creating the dark side
+>>>>>>> 09029672b7fe9ad25a5cd93231519ffdc34d9aca
 
 All Gods send spirts to help thier subjects
 
@@ -42,6 +46,10 @@ He may believe that for a while. But the more he believe is the weaker he become
 
 The demons seem like friends. Proctecting the man. But he knows something isn't right. 
 
+<<<<<<< HEAD
 He sees a shaman. The shaman tells him those demons aren't his friends. They serve the dark gods first. 
 
 many of our elected officials seem unable to grasp the urgency of what we’re facing. What we need now are serious people
+=======
+He sees a shaman. The shaman tells him those demons aren't his friends. They serve the dark gods first. 
+>>>>>>> 09029672b7fe9ad25a5cd93231519ffdc34d9aca
